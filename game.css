@@ -1,0 +1,20 @@
+.blk {width:50px;height:50px;overflow:hidden;}
+.card {margin:5px;padding:5px;width:40px;height:40px;border:solid 1px #f00;font:bold 3em verdana,arial,sans-serif;}
+.back {background:#ccc;cursor:pointer;}
+.cf1  {background:#ff0;color:#00f;}
+.cf2  {background:#f9f;color:#00f;}
+.cf3  {background:#0cf;color:#c00;}
+.imageBackground
+{
+	background: url("background.jpg")  no-repeat center center;
+    background-size: cover;
+	
+}
+
+.top75{
+	margin-top: 75px;
+}
+
+.bottom30{
+	margin-bottom: 30px;
+}
