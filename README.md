@@ -11,14 +11,12 @@
 
 #### Few points that I thought of sharing:
 
-- **HTML** code alone never looks appealing. Adding **CSS** to HTML will solve the problem.  To apply CSS to the HTML elements I had divided the page as left column and right column and wrapped in a div so that applying styles can be done comfortabily.
-
+- **HTML** code alone never looks appealing. Adding **CSS** to HTML will solve the problem.  
 
 - The **CSS** is applied through **class, id, tag names, inline css..** . Using class names will help you to reuse the css for other HTML elements, which will reduce the amount of data loading on the browser and provides readabilty of code. Among all the methods for applying the css there will be priorities for the browser which one to pick when there is collision of properties.
 
 
-- Our built in viewer is 632px, so lets make the web page width 632px. As I was thinking to make the left column more wider than the right column, I had divided area as 300px and 270px. But using pixel values directly is not a good idea as there will different sizes of the resolutions. So I thought using the **percentage** to divide the page, as it can render perfectly on any resolution.
-
+- Using pixel values directly is not a good idea as there will different sizes of the resolutions. So I thought using the **percentage** to divide the page, as it can render perfectly on any resolution.
 
 
 - All the div elements will be in vertical column because of static positining, But never the time it looks nice. The solution comes from "float" attribute. when **float:left or float:right** are applied to the div, The div's will take enough shape and looks fascinating.
