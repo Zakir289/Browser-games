@@ -7,7 +7,7 @@
 
 
 
-This is the basics personal website, which I just thought of sharing and may not helpful to you. You can reach out to my other personal fancy website repository.  
+ 
 
 #### Few points that I thought of sharing:
 
